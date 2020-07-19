@@ -1,0 +1,24 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Arrays;
+
+    public class Main {
+
+        public static void main(String[] args) {
+
+            int[] numbers; // initialize the array
+
+            System.out.println(Arrays.toString(numbers));
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2706
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2706">JetBrains
+    Academy</a></html>
+  time: Thu, 16 Jul 2020 07:31:53 UTC
+record: -1
