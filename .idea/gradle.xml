@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/Problems/Assignments" />
             <option value="$PROJECT_DIR$/Problems/Book" />
             <option value="$PROJECT_DIR$/Problems/Bus tour" />
+            <option value="$PROJECT_DIR$/Problems/Car" />
             <option value="$PROJECT_DIR$/Problems/Check a number is positive" />
             <option value="$PROJECT_DIR$/Problems/Check burgs" />
             <option value="$PROJECT_DIR$/Problems/Check if an array is sorted ascending" />
@@ -26,6 +27,7 @@
             <option value="$PROJECT_DIR$/Problems/Collatz conjecture" />
             <option value="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces" />
             <option value="$PROJECT_DIR$/Problems/Complex numbers" />
+            <option value="$PROJECT_DIR$/Problems/Counter" />
             <option value="$PROJECT_DIR$/Problems/Cyclically shifting elements" />
             <option value="$PROJECT_DIR$/Problems/Decrement all" />
             <option value="$PROJECT_DIR$/Problems/Even or odd" />
@@ -46,6 +48,7 @@
             <option value="$PROJECT_DIR$/Problems/Is between" />
             <option value="$PROJECT_DIR$/Problems/Javadoc comment" />
             <option value="$PROJECT_DIR$/Problems/Leap year" />
+            <option value="$PROJECT_DIR$/Problems/Patient needs a doctor" />
             <option value="$PROJECT_DIR$/Problems/Points on the 2D plane" />
             <option value="$PROJECT_DIR$/Problems/Print strings in the reverse order" />
             <option value="$PROJECT_DIR$/Problems/Printing strings in the same order" />
