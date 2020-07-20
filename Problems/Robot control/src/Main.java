@@ -1,63 +1,42 @@
 class Move {
     public static void moveRobot(Robot robot, int toX, int toY) {
-        if (robot.getX() > toX) {
-            Enum<Direction> direction = robot.getDirection();
-            if (Direction.RIGHT.equals(direction)) {
-                robot.turnLeft();
-                robot.turnLeft();
-            } else if (Direction.UP.equals(direction)) {
-                robot.turnLeft();
-            } else if (Direction.DOWN.equals(direction)) {
-                robot.turnRight();
-            }
-            while (robot.getX() > toX) {
+        int xMoves = toX - robot.getX();
+        int yMoves = toY - robot.getY();
+
+        while (xMoves < 0) {
+            if (robot.getDirection() == Direction.LEFT) {
                 robot.stepForward();
-            }
-        } else if (robot.getX() < toX) {
-            Enum<Direction> direction = robot.getDirection();
-            if (Direction.LEFT.equals(direction)) {
+                xMoves++;
+            } else {
                 robot.turnRight();
-                robot.turnRight();
-            } else if (Direction.UP.equals(direction)) {
-                robot.turnRight();
-            } else if (Direction.DOWN.equals(direction)) {
-                robot.turnLeft();
-            }
-            while (robot.getX() < toX) {
-                robot.stepForward();
             }
         }
-        if (robot.getY() > toY) {
-            Enum<Direction> direction = robot.getDirection();
-            if (Direction.UP.equals(direction)) {
-                robot.turnLeft();
-                robot.turnLeft();
-            } else if (Direction.LEFT.equals(direction)) {
-                robot.turnLeft();
-            } else if (Direction.RIGHT.equals(direction)) {
-                robot.turnRight();
-            }
-            while (robot.getY() > toY) {
-               robot.stepForward();
-           }
-        } else if (robot.getY() < toY) {
-            Enum<Direction> direction = robot.getDirection();
-            if (Direction.DOWN.equals(direction)) {
-                robot.turnLeft();
-                robot.turnLeft();
-            } else if (Direction.RIGHT.equals(direction)) {
-                robot.turnLeft();
-            } else if (Direction.LEFT.equals(direction)) {
-                robot.turnRight();
-            }
-            while (robot.getY() < toY) {
+        while (xMoves > 0) {
+            if (robot.getDirection() == Direction.RIGHT) {
                 robot.stepForward();
+                xMoves--;
+            } else {
+                robot.turnLeft();
             }
         }
 
+        while (yMoves < 0) {
+            if (robot.getDirection() == Direction.DOWN) {
+                robot.stepForward();
+                yMoves++;
+            } else {
+                robot.turnLeft();
+            }
         }
-
-
+        while (yMoves > 0) {
+            if (robot.getDirection() == Direction.UP) {
+                robot.stepForward();
+                yMoves--;
+            } else {
+                robot.turnLeft();
+            }
+        }
+    }
 }
 
 //Don't change code below
