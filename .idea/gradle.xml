@@ -53,6 +53,7 @@
             <option value="$PROJECT_DIR$/Problems/Print strings in the reverse order" />
             <option value="$PROJECT_DIR$/Problems/Printing strings in the same order" />
             <option value="$PROJECT_DIR$/Problems/Profit" />
+            <option value="$PROJECT_DIR$/Problems/Project constants and methods" />
             <option value="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'" />
             <option value="$PROJECT_DIR$/Problems/Reversing input numbers" />
             <option value="$PROJECT_DIR$/Problems/Size of parts" />
@@ -66,6 +67,7 @@
             <option value="$PROJECT_DIR$/Problems/The product of numbers from a to b" />
             <option value="$PROJECT_DIR$/Problems/The result of a Tic-Tac-Toe game" />
             <option value="$PROJECT_DIR$/Problems/Three numbers" />
+            <option value="$PROJECT_DIR$/Problems/Too many cats" />
             <option value="$PROJECT_DIR$/Problems/We need to learn Java" />
             <option value="$PROJECT_DIR$/util" />
           </set>
