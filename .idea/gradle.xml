@@ -34,6 +34,7 @@
             <option value="$PROJECT_DIR$/Problems/Decrement all" />
             <option value="$PROJECT_DIR$/Problems/Even or odd" />
             <option value="$PROJECT_DIR$/Problems/Fill the declaration" />
+            <option value="$PROJECT_DIR$/Problems/Fill the matrix by numbers" />
             <option value="$PROJECT_DIR$/Problems/Find the max of three numbers" />
             <option value="$PROJECT_DIR$/Problems/First, second, third" />
             <option value="$PROJECT_DIR$/Problems/Floor-space of the room" />
@@ -63,6 +64,7 @@
             <option value="$PROJECT_DIR$/Problems/Snail" />
             <option value="$PROJECT_DIR$/Problems/Sum array elements greater than a value" />
             <option value="$PROJECT_DIR$/Problems/Sum of numbers in the range" />
+            <option value="$PROJECT_DIR$/Problems/Symmetric matrix" />
             <option value="$PROJECT_DIR$/Problems/The countdown" />
             <option value="$PROJECT_DIR$/Problems/The forgotten comments" />
             <option value="$PROJECT_DIR$/Problems/The integer barrier" />
