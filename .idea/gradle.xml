@@ -21,6 +21,7 @@
             <option value="$PROJECT_DIR$/Problems/Check a number is positive" />
             <option value="$PROJECT_DIR$/Problems/Check burgs" />
             <option value="$PROJECT_DIR$/Problems/Check if an array is sorted ascending" />
+            <option value="$PROJECT_DIR$/Problems/Check sudoku" />
             <option value="$PROJECT_DIR$/Problems/Check the sum" />
             <option value="$PROJECT_DIR$/Problems/Check the value" />
             <option value="$PROJECT_DIR$/Problems/Chocolate" />
@@ -53,6 +54,7 @@
             <option value="$PROJECT_DIR$/Problems/Leap year" />
             <option value="$PROJECT_DIR$/Problems/Patient needs a doctor" />
             <option value="$PROJECT_DIR$/Problems/Points on the 2D plane" />
+            <option value="$PROJECT_DIR$/Problems/Pretty looking pattern" />
             <option value="$PROJECT_DIR$/Problems/Print strings in the reverse order" />
             <option value="$PROJECT_DIR$/Problems/Printing strings in the same order" />
             <option value="$PROJECT_DIR$/Problems/Profit" />
@@ -63,8 +65,10 @@
             <option value="$PROJECT_DIR$/Problems/Size of parts" />
             <option value="$PROJECT_DIR$/Problems/Snail" />
             <option value="$PROJECT_DIR$/Problems/Sum array elements greater than a value" />
+            <option value="$PROJECT_DIR$/Problems/Sum of neighbors" />
             <option value="$PROJECT_DIR$/Problems/Sum of numbers in the range" />
             <option value="$PROJECT_DIR$/Problems/Symmetric matrix" />
+            <option value="$PROJECT_DIR$/Problems/Test learners" />
             <option value="$PROJECT_DIR$/Problems/The countdown" />
             <option value="$PROJECT_DIR$/Problems/The forgotten comments" />
             <option value="$PROJECT_DIR$/Problems/The integer barrier" />
